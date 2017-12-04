@@ -1,0 +1,5 @@
+E:\Csharp\Observer\Observer\bin\Debug\Observer.exe
+E:\Csharp\Observer\Observer\bin\Debug\Observer.pdb
+E:\Csharp\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+E:\Csharp\Observer\Observer\obj\Debug\Observer.exe
+E:\Csharp\Observer\Observer\obj\Debug\Observer.pdb
